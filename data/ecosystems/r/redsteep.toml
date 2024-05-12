@@ -1,5 +1,5 @@
 # Ecosystem Level Information
-title = "Swamp Audio"
+title = "Redsteep"
 
 sub_ecosystems = []
 
@@ -7,4 +7,4 @@ github_organizations = []
 
 # Repositories
 [[repo]]
-url = "https://github.com/nn-dmt/swamp_ergo"
+url = "https://github.com/redsteep/dfinity-icp-governor"

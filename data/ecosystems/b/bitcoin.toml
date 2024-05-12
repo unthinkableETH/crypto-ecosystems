@@ -68,6 +68,7 @@ sub_ecosystems = [
   "Sparrow Wallet",
   "Stacks",
   "Swingby",
+  "TeleportDAO",
   "THORChain",
   "Token Ocean",
   "Wizardsardine",
@@ -3252,6 +3253,9 @@ url = "https://github.com/bwt-dev/libbwt-nodejs"
 
 [[repo]]
 url = "https://github.com/BXSWSSMBDX/bitcoin-developer-preview"
+
+[[repo]]
+url = "https://github.com/by-unknown/Bitcoin-Auto-Withdraw"
 
 [[repo]]
 url = "https://github.com/ByeongHunKim/Blockchain"
@@ -16874,6 +16878,3 @@ url = "https://github.com/Zurvarian/bitcoin-java-101"
 
 [[repo]]
 url = "https://github.com/zy0n/bitcore-lib-finite"
-
-[[repo]]
-url = "https://github.com/by-unknown/Bitcoin-Auto-Withdraw"

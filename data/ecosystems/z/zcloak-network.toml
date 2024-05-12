@@ -1,6 +1,11 @@
+# Ecosystem Level Information
 title = "zCloak Network"
+
 sub_ecosystems = []
+
 github_organizations = []
+
+# Repositories
 [[repo]]
 url = "https://github.com/zCloak-Network/apps"
 
@@ -27,6 +32,9 @@ url = "https://github.com/zCloak-Network/substrate-subxt"
 missing = true
 
 [[repo]]
+url = "https://github.com/zcloak-network/valid.one-app"
+
+[[repo]]
 url = "https://github.com/zCloak-Network/winterfell"
 
 [[repo]]
@@ -42,4 +50,3 @@ missing = true
 
 [[repo]]
 url = "https://github.com/zCloak-Network/ZK-Maze"
-
